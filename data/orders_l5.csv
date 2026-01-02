@@ -1,0 +1,7 @@
+order_id,customer_id,product,category,price,quantity
+101,1,Laptop,electronics,55000,1
+102,2,Jeans,clothing,1500,2
+103,3,Mobile Phone,electronics,18000,1
+104,3,Shoes,clothing,2500,1
+105,5,Microwave,home_appliance,7800,1
+106,6,T-Shirt,clothing,900,3

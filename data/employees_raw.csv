@@ -1,0 +1,7 @@
+emp_id,name,department,age,salary,join_date
+101,Ravi Kumar,sales,28.0,45000,2021-05-10
+102,priya devi,HR,,52000,2020/03/15
+103,ANIL,sales,32.0,,2021-07-01
+104,   Sunita Rao,IT,25.0,48000,2022-01-20
+105,Rohan,it,29.0,51000.0,20-06-2021
+106,,Sales,,47000,2021-08-12

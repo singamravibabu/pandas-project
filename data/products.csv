@@ -1,0 +1,7 @@
+product_id,product_name,category,price,quantity,rating,launch_date
+1,Laptop,Electronics,55000,5,4.5,2023-02-10
+2,Mobile Phone,Electronics,18000,10,4.2,2023-01-15
+3,T-Shirt,Clothing,900,50,3.9,2023-03-05
+4,Shoes,Clothing,2500,20,4.1,2023-02-28
+5,Microwave,Home Appliance,7800,8,4.3,2023-04-01
+6,Mixer Grinder,Home Appliance,3500,12,3.8,2023-04-15

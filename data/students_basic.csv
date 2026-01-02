@@ -1,0 +1,6 @@
+student_id,name,age,grade,passed
+1,Ravi,15,88,True
+2,Priya,16,92,True
+3,Karthik,15,76,False
+4,Ananya,17,85,True
+5,Suresh,16,67,False

@@ -1,0 +1,11 @@
+store,year,quarter,product,revenue
+A,2022,Q1,Laptop,120000
+A,2022,Q2,Laptop,150000
+A,2022,Q3,Shoes,30000
+A,2022,Q4,T-Shirt,45000
+B,2022,Q1,Mobile,90000
+B,2022,Q2,Mobile,110000
+B,2022,Q3,Shoes,35000
+B,2022,Q4,Jeans,40000
+C,2022,Q1,Laptop,100000
+C,2022,Q2,T-Shirt,50000

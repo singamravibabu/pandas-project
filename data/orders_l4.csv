@@ -1,0 +1,11 @@
+order_id,customer,product,category,price,quantity,order_date,city
+1,Ravi,Laptop,electronics,55000,1,2023-01-05,Hyderabad
+2,Akshay,Mobile Phone,electronics,18000,2,2023-01-12,Mumbai
+3,Priya,Mixer Grinder,home_appliance,3200,1,2023-02-10,Chennai
+4,Sunita,Shoes,clothing,2500,3,2023-02-15,Hyderabad
+5,Manoj,Jeans,clothing,1500,2,2023-03-01,Delhi
+6,Kiran,Laptop,electronics,57000,1,2023-03-05,Mumbai
+7,Ravi,Microwave,home_appliance,7800,1,2023-03-20,Hyderabad
+8,Priya,T-Shirt,clothing,900,4,2023-04-01,Chennai
+9,Akshay,Earphones,electronics,700,3,2023-04-15,Delhi
+10,Sunita,Mixer Grinder,home_appliance,3500,1,2023-05-10,Hyderabad
